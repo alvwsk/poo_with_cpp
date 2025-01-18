@@ -28,3 +28,5 @@ int main()
     return 0;
 }
 
+// g++ connect.cpp -I/usr/include/mysql -L/usr/lib/mysql -lmysqlclient -o connect && ./connect 
+
