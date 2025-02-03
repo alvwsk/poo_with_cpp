@@ -45,5 +45,5 @@ int main()
         {
             cout << "fail: command not found" << endl;
         }
-        }
+    }
 }
